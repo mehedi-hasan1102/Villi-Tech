@@ -1,7 +1,7 @@
 # 🌐 Mehedi Hasan — Developer Portfolio
 
 **Live Site:** [mehedi-h2.vercel.app](https://mehedi-h2.vercel.app)  
-**GitHub Repo:** [github.com/mehedi-hasan1102/Mehedi-Hasan-Website](https://github.com/mehedi-hasan1102/Mehedi-Hasan-Website-V.1.5)
+**GitHub Repo:** [github.com/Mehedi-Hasan-Portfoliyo-v2](https://github.com/mehedi-hasan1102/Mehedi-Hasan-Portfoliyo-v2)
 
 ---
 
@@ -36,7 +36,7 @@ This is my personal portfolio website built with modern tools including **React 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/mehedi-hasan1102/Mehedi-Hasan-Website-V.1.5
+git clone https://github.com/mehedi-hasan1102/Mehedi-Hasan-Portfoliyo-v2
 cd Mehedi-Hasan-Portfoliyo-v2
 pnpm install
 pnpm run dev
